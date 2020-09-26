@@ -54,3 +54,4 @@ if __name__ == "__main__":
             print("\033[92mSUCESS:", results, "\033[0m")
         except:
             print("\033[91mERROR\033[0m")
+

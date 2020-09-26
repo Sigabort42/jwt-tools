@@ -35,3 +35,4 @@ with open(password_file, 'r') as fd:
             sys.exit(0)
         except Exception as err:
             print("TRYING WORD:\033[91m", word, "\033[0m")
+
